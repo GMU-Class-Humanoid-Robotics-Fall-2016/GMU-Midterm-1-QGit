@@ -1,3 +1,4 @@
 git checkout -b abcdefg
-vim midterm.txt
-:wq 
+git add midterm1.txt
+git commit -m 'first commit'
+git push origin abcdefg
