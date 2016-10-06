@@ -1,1 +1,3 @@
- 
+git checkout -b abcdefg
+vim midterm.txt
+:wq 
